@@ -1,0 +1,10 @@
+
+title: Searchable List
+source_url: https://code.google.com/p/dart/source/browse/branches/bleeding_edge/dart/samples/searchable_list/README.md
+description: Shows use of data binding to make any list searchable.
+type: sample
+categories:
+  - polymer.dart
+keywords:
+  - binding
+  - filters
