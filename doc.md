@@ -19,9 +19,9 @@ value of `results` updates. Since `results` is an observable variable, its
 representation in the UI automatically updates as its contents change.
 
 Here is the minimal code for required to implement search
-(searchable_list.dart):
+(`searchable_list.dart`):
 
-IMPORT('web/searchable_list.dart', 'search)
+IMPORT('web/searchable_list.dart', 'search')
 
 Any changes to searchParam trigger `search()`. Here is the code for that
 (the `enteredView()` method in `searchable_list.dart`):
